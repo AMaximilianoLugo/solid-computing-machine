@@ -1,2 +1,2 @@
-# solid-computing-machine
-este es un repositorio del modulo 2 de Henry 
+#solid-computing-machine
+este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora. 
